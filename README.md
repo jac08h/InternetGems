@@ -11,9 +11,15 @@ Websites, articles, games and anything interesting I stumbled across.
 * [Twitch Roulette](https://twitchroulette.net/) - Twitch streams with 0 viewers.
 * [If I Knew Then](https://hbs1963.com/) - Advice on careers, finance, and life from Harvard Business School's Class of 1963.
 * [Arte.tv](https://www.arte.tv/en/) - Documents and news-related programs from a French-German TV project.
+* [Gnod](https://www.gnod.com/) - Platform for discovering new music, books based on author you like. Examples:
+  * [Music map](https://www.music-map.com/) - Music.
+  * [Gnooks](https://www.gnooks.com/) - Books.
  
 ### Radios
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) - Plug in to radios from various cities.
 * [Radiooooo](https://radiooooo.com/) - Listen to songs played in radios across the last century.
 * [Soma.fm](https://somafm.com/) - Underground/alternative radio broadcasting.
 * [Radio.garden](http://radio.garden/) - Plug in to radio by finding it on the map.
+
+## Languages
+* [Readlang.com](https://readlang.com/) - Read articles in foreign language and learn with generated flashcards from words you didn't understand.
